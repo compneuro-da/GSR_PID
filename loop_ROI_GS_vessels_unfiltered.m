@@ -1,4 +1,4 @@
-%% Second test of multiscale PID (Partial Information Decomposition)
+%% multiscale PID (Partial Information Decomposition) applied to HCP data (278 ROIs plus Global Signal and BOLD in vessels)
 % analysis at varying scale tau 
 % uses the PID code from here 
 % Faes, L., Marinazzo, D., & Stramaglia, S. (2017).
