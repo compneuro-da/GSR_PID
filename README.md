@@ -1,7 +1,8 @@
 # GSR_PID
 code for simulation and main analysis
 
-This code is used in the paper "".
+This code is used in the paper "Disambiguating the role of blood flow and global signal with partial information decomposition".
+https://doi.org/10.1016/j.neuroimage.2020.116699
 
 There are two main files:
 
